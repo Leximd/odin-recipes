@@ -1,2 +1,2 @@
 # odin-recipes
-Hello Odin!  all good
+Hello Odin!  all good yup
